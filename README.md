@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Disgon
+- 👀 I’m interested in {Coding}
+- 🌱 I’m currently learning {Python & C#}
+- 💞️ I’m looking to collaborate on {Discord coding}
+- 📫 How to reach me {PatrioticShip@protonmail.com}
